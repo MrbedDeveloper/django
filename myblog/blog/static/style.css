@@ -1,0 +1,78 @@
+* {
+
+    font-family: 'Montserrat';
+}
+
+html {
+    background-color: #fff;
+    background-image: url(/static/background.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 99px;
+    margin-bottom: 0px;
+}
+
+.header {
+    text-align: center;
+}
+
+.container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blue {
+    color: #31aed4;
+    text-shadow: 0px 1px 10px #32aed4, 1px 1px 10px #32aed4;
+}
+
+.red {
+    color: #f51ec6;
+    text-shadow: 0px 1px 10px #f52ec6, 1px 1px 10px #f52ec6;
+}
+
+.post {
+    padding: 9px;
+    margin-top: 29px;
+    border-radius: 9px;
+    background-color: #0000005c;
+}
+
+.post h2 {
+    margin-top: 0;
+}
+
+.comment {
+    padding: 9px;
+    margin-left: auto;
+    margin-top: 10px;
+    width: 30%;
+    border-radius: 9px;
+    background-color: #cfcece5c;
+}
+
+.comment p {
+    margin: 0;
+}
+
+.comment input {
+    border-radius: 9px;
+    border: 0px;
+    background-color: #cfcece5c;
+    margin: 0;
+}
+
+.comment button {
+    border-radius: 9px;
+    border: 0px;
+    background-color: #cfcece5c;
+    margin: 0;
+}
+
+form {
+    padding: 0;
+    margin: 0;
+}
